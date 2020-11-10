@@ -30,7 +30,7 @@ Partial Class Form1
         'Button1
         '
         Me.Button1.Font = New System.Drawing.Font("Microsoft Sans Serif", 14.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(204, Byte))
-        Me.Button1.Location = New System.Drawing.Point(93, 4)
+        Me.Button1.Location = New System.Drawing.Point(266, 2)
         Me.Button1.Name = "Button1"
         Me.Button1.Size = New System.Drawing.Size(179, 51)
         Me.Button1.TabIndex = 0
@@ -44,7 +44,7 @@ Partial Class Form1
         Me.tbLog.Multiline = True
         Me.tbLog.Name = "tbLog"
         Me.tbLog.ReadOnly = True
-        Me.tbLog.Size = New System.Drawing.Size(260, 511)
+        Me.tbLog.Size = New System.Drawing.Size(433, 511)
         Me.tbLog.TabIndex = 1
         '
         'Button2
@@ -60,7 +60,7 @@ Partial Class Form1
         '
         Me.AutoScaleDimensions = New System.Drawing.SizeF(6.0!, 13.0!)
         Me.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font
-        Me.ClientSize = New System.Drawing.Size(284, 584)
+        Me.ClientSize = New System.Drawing.Size(457, 584)
         Me.Controls.Add(Me.Button2)
         Me.Controls.Add(Me.tbLog)
         Me.Controls.Add(Me.Button1)
